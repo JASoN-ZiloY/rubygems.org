@@ -2,10 +2,11 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: feature
+labels: ''
 assignees: ''
 
 ---
+
 <!--
 This issue tracker for bug reports and feature requests only.
 
